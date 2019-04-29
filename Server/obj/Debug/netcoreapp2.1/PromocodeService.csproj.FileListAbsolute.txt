@@ -1,0 +1,14 @@
+d:\Users\tuleda\source\repos\PromocodeService\PromocodeService\bin\Debug\netcoreapp2.1\PromocodeService.deps.json
+d:\Users\tuleda\source\repos\PromocodeService\PromocodeService\bin\Debug\netcoreapp2.1\PromocodeService.runtimeconfig.json
+d:\Users\tuleda\source\repos\PromocodeService\PromocodeService\bin\Debug\netcoreapp2.1\PromocodeService.runtimeconfig.dev.json
+d:\Users\tuleda\source\repos\PromocodeService\PromocodeService\bin\Debug\netcoreapp2.1\PromocodeService.dll
+d:\Users\tuleda\source\repos\PromocodeService\PromocodeService\bin\Debug\netcoreapp2.1\PromocodeService.pdb
+d:\Users\tuleda\source\repos\PromocodeService\PromocodeService\obj\Debug\netcoreapp2.1\PromocodeService.csproj.CoreCompileInputs.cache
+d:\Users\tuleda\source\repos\PromocodeService\PromocodeService\obj\Debug\netcoreapp2.1\PromocodeService.RazorAssemblyInfo.cache
+d:\Users\tuleda\source\repos\PromocodeService\PromocodeService\obj\Debug\netcoreapp2.1\PromocodeService.RazorAssemblyInfo.cs
+d:\Users\tuleda\source\repos\PromocodeService\PromocodeService\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+d:\Users\tuleda\source\repos\PromocodeService\PromocodeService\obj\Debug\netcoreapp2.1\PromocodeService.AssemblyInfoInputs.cache
+d:\Users\tuleda\source\repos\PromocodeService\PromocodeService\obj\Debug\netcoreapp2.1\PromocodeService.AssemblyInfo.cs
+d:\Users\tuleda\source\repos\PromocodeService\PromocodeService\obj\Debug\netcoreapp2.1\PromocodeService.RazorTargetAssemblyInfo.cache
+d:\Users\tuleda\source\repos\PromocodeService\PromocodeService\obj\Debug\netcoreapp2.1\PromocodeService.dll
+d:\Users\tuleda\source\repos\PromocodeService\PromocodeService\obj\Debug\netcoreapp2.1\PromocodeService.pdb

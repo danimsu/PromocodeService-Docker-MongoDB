@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "d:\\Users\\tuleda\\.dotnet\\store\\|arch|\\|tfm|",
+      "d:\\Users\\tuleda\\.nuget\\packages",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ]
+  }
+}
